@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Profile README for AjayvirS -->
 
-<!--
-**AjayvirS/AjayvirS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Ajayvir Singh
+I am Ajay and I like
+Building things around **secure automation**, **developer tooling**, and **data-driven side projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+·
+<a href="https://YOUR-WEBSITE/">Website</a>
+·
+<a href="mailto:YOUR.EMAIL@example.com">Email</a>
+
+<br/><br/>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AjayvirS?style=flat">
+<img alt="Stars" src="https://img.shields.io/github/stars/AjayvirS?style=flat">
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=AjayvirS&style=flat">
+
+</div>
+
+---
+
+## What I'm up to
+
+- Working on **secure exercise evaluation / sandboxing** (see: `artemis-phobos`)
+- Contributing to open source when I can (notably around **Artemis**)
+- Working on a image annotator mobile app (see: `PhotoTagger`)
+
+---
+
+## Featured projects
+
+- **artemis-phobos** — secure execution / dev sandboxing helpers  
+  https://github.com/AjayvirS/artemis-phobos
+
+- **whatsapp_group_stats_generator** — charts & insights from WhatsApp exports  
+  https://github.com/AjayvirS/whatsapp_group_stats_generator
+
+- **uni-ranking** — exploring university rankings and what influences them  
+  https://github.com/AjayvirS/uni-ranking
+
+- **ComposeTutorials** — Kotlin / Jetpack Compose learning playground  
+  https://github.com/AjayvirS/ComposeTutorials
+
+- **PhotoTagger** — photo tagging app concept w/ LLM integration  
+  https://github.com/AjayvirS/PhotoTagger
+
+---
+
+## Toolbox
+
+**Daily drivers:** Linux -- Intellij -- AndroidStudio -- Git -- Docker -- Firebase -- CI/CD  
+**Languages I use:** Python -- Shell -- Kotlin -- Java -- Angular (and whatever the project needs)  
+**Interests:** Mobile Development -- Web Development -- DevOps -- Scalability -- Integration
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AjayvirS&show_icons=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayvirS&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## Let’s connect
+
+If you’re working on **security**, **container isolation**, or **developer tooling**, **web and mobile development** I'm always happy to chat.
